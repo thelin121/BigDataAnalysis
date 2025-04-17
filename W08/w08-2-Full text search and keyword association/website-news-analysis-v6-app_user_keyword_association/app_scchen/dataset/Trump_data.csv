@@ -1,0 +1,6 @@
+name,value
+freqByDate,"[{'x': '2025-04-15', 'y': 10}, {'x': '2025-04-16', 'y': 34}]"
+freqByCate,"[44, 22, 3, 0, 0, 19]"
+category,"['全部', '學術股市', '綜合', '閒談', '棒球', '軍事']"
+num_frequency,207
+num_occurrence,44
